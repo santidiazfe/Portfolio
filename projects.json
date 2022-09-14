@@ -1,0 +1,26 @@
+{
+    "pages": [
+        {
+            "name": "Pokedex",
+            "image":"https://thumbs2.imgbox.com/9d/8e/a5IRqM3h_t.png",
+            "url":"https://visionary-bubblegum-5fdce5.netlify.app/",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi laborum repellendus ducimus eos atque",
+            "techonologies": ["CSS", "HTML","React"]
+        
+        },
+        {
+            "name": "Nexos",
+            "image":"https://thumbs2.imgbox.com/43/0d/mSwkuw3q_t.png",
+            "url":"https://startling-kitsune-c8d472.netlify.app/",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi laborum repellendus ducimus eos atque",
+            "techonologies": ["CSS", "HTML","JavaScript"]
+        },
+        {   
+            "name": "Nexos",
+            "image":"https://thumbs2.imgbox.com/43/0d/mSwkuw3q_t.png",
+            "url":"https://startling-kitsune-c8d472.netlify.app/",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi laborum repellendus ducimus eos atque",
+            "techonologies": ["CSS", "HTML","JavaScript"]
+        }
+    ]
+}
